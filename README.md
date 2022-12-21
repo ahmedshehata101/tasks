@@ -3,7 +3,7 @@
 1 - Build instructions
 
     a) clone the repo and just give chmod +x to the script "generatenumbers.sh" to be executable .
-    b) Run the script by ./generatenumbers.sh if you are in the same directory or in different directory you can use '/xxx/zzz/generatenumber.sh'
+    b) Run the script by ./generatenumbers.sh if you are in the same directory or in different directory you can use '/xxx/zzz/generatenumbers.sh'
 
 2 - Usage
 
