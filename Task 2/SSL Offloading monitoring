@@ -1,1 +1,4 @@
-
+SSL Offloading is a cpu intensive task , so we will need to monitor the usage of our cpu and average load of the cpu to avoid anything of High Load issues.
+We can create a script to catch the load each 2 min and see average load of the cpu and save it to a log file we create , or we can use "top" command for live monitoring .
+We can monitor the log of this service to see any kind of unclosed connections that may affect.
+The challenge I see that if you will check the logs of this service you will find thousands of lines and it will be hard to troubleshoot. 
