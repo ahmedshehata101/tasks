@@ -16,7 +16,7 @@
 
 4 - Known limitations / bugs
 
-    None
+    Just make sure that this package is installed "coreutils" in your Distro.
 
 5 - Tests 
 
